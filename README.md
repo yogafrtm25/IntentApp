@@ -288,8 +288,7 @@ Didalam AndroidManifest.xml ini kita tambahkan semua .java dari semua project ki
 ## 4. Hasil RUN
 Berikut video hasil RUN, dari aplkasi yang sudah saya buat ini :<br>
 
-
-
+https://github.com/yogafrtm25/IntentApp/assets/115678171/9e1f1d00-9e4f-4633-94cc-4a33d1de1408
 
 # Code Semua Project
 ## Strings, Colors, Dimens
